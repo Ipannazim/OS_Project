@@ -81,9 +81,10 @@ codespace
 
 Look at the TERMINAL tab. Run the following commands and provide the output here. 
 
-1. Run the command **pwd** . ***(1 mark)*** ```bash
+1. Run the command **pwd** . ***(1 mark)*** 
+    ```bash
     @Ipannazim ➜ /workspaces/OS_Project (main) $ pwd
-/workspaces/OS_Project
+    /workspaces/OS_Project
     ```
 2. Run the command **cat /etc/passwd** 
     ```bash
