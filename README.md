@@ -59,9 +59,12 @@ __Answer: One folder for image that consist 6 files and one file which is readme
 
 ***Questions:***
 
-1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** __Fill answer here__.
-2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** __Fill answer here__.
-3. Why must we commit and sync our current work on source control? ***(1 mark)*** __Fill answer here__.
+1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***<br>
+   __Answer: Ubuntu__.
+2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** <br>
+   __Answer: 2-core CPU, 4 GB RAM, and 32 GB disk and 4-core CPU, 8 GB RAM, and 64 GB disk__.
+3. Why must we commit and sync our current work on source control? ***(1 mark)*** <br>
+   __Answer: to ensure that our changes are saved, tracked, and shared with the rest of the team.__.
 
 ## Exploring the Terminal
 
